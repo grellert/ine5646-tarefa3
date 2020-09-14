@@ -10,8 +10,8 @@ Os botões estão inicialmente opacos e possuem a contagem de likes/dislikes. Ao
 As imagens a seguir mostram *snapshots* da página na versão laptop e mobile:
 
 <div style="display:flex;flex-direction:row">
-<img src="/images/snapshot-laptop.png" style="margin:10px" width="400px">
-<img src="/images/snapshot-mobile.png" style="margin:10px" width="400px">
+<img src="/images/snapshot-laptop.png" style="margin:10px" height="1600px">
+<img src="/images/snapshot-mobile.png" style="margin:10px" height="1600px">
 </div>
 
 ## Requisitos:
